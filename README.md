@@ -3,4 +3,4 @@ loops
 
 iteration
 
-While and For loops
+While and For Loops
