@@ -7,8 +7,14 @@ public class loops{
 		// 	x++;
 
 		// }
-		for(int i=1; i<=100; i++){
-			System.out.println(i);
+		// for(int i=1; i<=100; i++){
+		// 	System.out.println(i);
+		// }
+		int a=45;
+		while(a>=20){
+			System.out.println(a);
+			a-=5;
+
 		}
 	}
 
